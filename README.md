@@ -1,1 +1,0 @@
-# SQL-Based-Analysis-of-Tumor-Characteristics-Diagnosis-and-Treatment-Patterns-in-Breast-Cancer
