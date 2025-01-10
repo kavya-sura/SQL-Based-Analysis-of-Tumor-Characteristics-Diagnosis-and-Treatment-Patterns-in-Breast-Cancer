@@ -9,7 +9,7 @@ This project analyzes breast cancer data using SQL to uncover patterns in tumor 
 - **`reports/`**: This folder contains the outcomes of queries (.csv, .png)
 
 ## Data Resources
-- **Dataset**: [Kaggle Breast Cancer Dataset tt](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
+- **Dataset**: [Kaggle Breast Cancer Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
 - **Entities**: 9 entities, including patient data and tumor characteristics
 - **Database**: MySQL Workbench
 
