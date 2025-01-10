@@ -1,0 +1,6 @@
+PhysicianKey,Physician_Last_Name,Physician_First_Name,PatientCount,Benign_PatientCount,Malignant_PatientCount,Both_Diagnosis_PatientCount
+1,Wilson,Linda,5,2,3,0
+2,Moore,Robert,2,0,2,0
+3,Smith,John,7,1,7,1
+4,Jones,Sarah,8,1,7,0
+5,Johnson,Mary,3,0,3,0

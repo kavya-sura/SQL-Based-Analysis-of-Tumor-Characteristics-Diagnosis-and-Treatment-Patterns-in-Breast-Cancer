@@ -1,0 +1,5 @@
+PatientKey,Patient_First_Name,Patient_Last_Initial,Diagnosis_Outcome_Formatted,Treatment_Type_1
+842001,Jackson,B.,Malignant,IT
+842001,Jackson,B.,Malignant,RT
+845636,Amelia,W.,Malignant,IT
+845636,Amelia,W.,Malignant,RT

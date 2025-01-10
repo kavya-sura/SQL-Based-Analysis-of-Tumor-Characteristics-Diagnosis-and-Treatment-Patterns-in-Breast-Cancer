@@ -1,0 +1,3 @@
+Diagnosis_Outcome,AVG(Tumor_Radius_Mean),AVG(Tumor_Texture_Mean),AVG(Tumor_Perimeter_Mean)
+B,13.527500,13.222500,89.057500
+M,16.320000,20.446538,108.284615

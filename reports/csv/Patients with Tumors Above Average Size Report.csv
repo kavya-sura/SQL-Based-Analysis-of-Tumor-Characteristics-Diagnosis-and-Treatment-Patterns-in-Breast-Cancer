@@ -1,0 +1,15 @@
+PatientKey,Patient_First_Name,Patient_Last_Name,Tumor_Radius_Mean,Avg_All_Pt_Radius
+842001,Jackson,Brooks,16.13,15.947667
+842001,Jackson,Brooks,19.81,15.947667
+842302,Olivia,Hayes,17.99,15.947667
+842302,Olivia,Hayes,17.99,15.947667
+842517,Liam,Clark,20.57,15.947667
+843502,Ava,Brown,20.29,15.947667
+844359,Mia,Thompson,19.69,15.947667
+844359,Mia,Thompson,18.25,15.947667
+845636,Amelia,Walker,16.02,15.947667
+846226,Harper,Scott,19.17,15.947667
+851509,Sebastian,Cox,21.16,15.947667
+852552,Chloe,Ward,16.65,15.947667
+852631,Benjamin,Flores,17.14,15.947667
+852781,Henry,Jenkins,18.61,15.947667

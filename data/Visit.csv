@@ -1,0 +1,31 @@
+VisitKey,Visit_Date,Visit_Location,Visit_Type,Visit_Status,Visit_Reason,PatientKey,PhysicianKey
+001,2000/1/20,MH,Outpatient,In Progress,Chemotherapy,842302,003
+002,2000/4/17,MH,Outpatient,In Progress,Surgical Consultation,842302,003
+003,2001/3/25,CH,Inpatient,Completed,Radiation Therapy,842517,005
+004,2002/6/15,SH,Outpatient,Completed,Chemotherapy,844359,003
+005,2003/10/5,MH,Inpatient,Completed,Symptom Management,843401,004
+006,2004/11/10,GH,Outpatient,No-show,Follow-up,843502,003
+007,2005/2/20,MH,Inpatient,Completed,Surgical Consultation,843786,001
+008,2006/5/1,UH,Outpatient,Completed,Chemotherapy,844359,002
+009,2007/7/15,SH,Inpatient,Completed,Radiation Therapy,844502,001
+010,2008/8/25,MH,Outpatient,Completed,Follow-up,844981,004
+011,2009/12/10,WH,Outpatient,Completed,Symptom Management,845001,004
+012,2010/1/20,UH,Outpatient,In Progress,Follow-up,845636,001
+013,2011/3/12,EH,Inpatient,Completed,Radiation Therapy,845636,001
+014,2012/5/28,MH,Outpatient,Completed,Follow-up,846226,004
+015,2013/7/10,MH,Inpatient,In Progress,Surgical Consultation,846381,004
+016,2014/9/25,UH,Inpatient,In Progress,Follow-up,846401,003
+017,2015/11/1,CH,Outpatient,Canceled,Symptom Management,847002,004
+018,2016/2/15,GH,Outpatient,In Progress,Surgical Consultation,848406,003
+019,2017/5/1,WH,Inpatient,Completed,Follow-up,842001,002
+020,2018/6/10,NH,Outpatient,Completed,Radiation Therapy,842001,002
+021,2019/8/20,CH,Inpatient,In Progress,Chemotherapy,851426,004
+022,2020/11/2,EH,Outpatient,In Progress,Follow-up,851653,001
+023,2021/12/20,CH,Inpatient,In Progress,Radiation Therapy,851824,001
+024,2022/2/2,NH,Outpatient,Completed,Follow-up,842001,002
+025,2023/3/10,SH,Inpatient,Completed,Follow-up,851509,003
+026,2023/5/20,MH,Inpatient,Completed,Surgical Consultation,852552,005
+027,2000/7/15,PH,Outpatient,Canceled,Symptom Management,852631,004
+028,2001/9/1,WH,Outpatient,In Progress,Chemotherapy,852763,003
+029,2002/11/10,RH,Inpatient,Completed,Surgical Consultation,852781,005
+030,2003/2/20,SH,Outpatient,Completed,Radiation Therapy,842001,002
